@@ -1,27 +1,49 @@
-🦷 Just built a full Dental Clinic Website from scratch!
+# 🦷 Dental Clinic Website
 
-Here's what I built:
+A modern, responsive dental clinic website built with Next.js and TypeScript.
 
-✅ Fully responsive dental clinic website
-✅ Appointment booking form with validation
-✅ Services & doctor profile sections
-✅ Smooth animations throughout
-✅ Clean, modern UI designed for patients
+## 🌐 Live Demo
+[View Live Site](https://dental-clinic.vercel.app)
 
-🛠 Tech used:
-→ Next.js 16 + TypeScript
-→ Tailwind CSS + Shadcn UI
-→ React Hook Form + Zod
-→ Framer Motion
+## ✨ Features
+- Responsive design for mobile and desktop
+- Services showcase section
+- Appointment booking form
+- Doctor profiles
+- Contact section with location
+- Smooth animations with Framer Motion
+- Accessible UI with Radix UI components
 
-🏥 This was built for real-world use — any dental clinic or 
-healthcare business can use this as their online presence.
+## 🛠 Tech Stack
+- **Framework:** Next.js 16 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS v4
+- **UI Components:** Shadcn UI / Radix UI
+- **Forms:** React Hook Form + Zod
+- **Animations:** Framer Motion
 
-If you're a clinic owner or know someone who needs a 
-professional website — let's connect.
+## 🚀 Installation
 
-🔗 GitHub: https://github.com/ajithkumarts111-pixel/
-🌐 Live Demo: [link]
+```bash
+# Clone the repo
+git clone https://github.com/ajithkumarts111-pixel/Dental-clinic.git
 
-#NextJS #React #WebDevelopment #Freelancing #HealthcareWebsite
-#MERN #FullStackDeveloper #OpenToWork
+# Go into the project
+cd Dental-clinic
+
+# Install dependencies
+pnpm install
+
+# Run the development server
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 📸 Screenshots
+(Add screenshots after deployment)
+
+## 📬 Contact
+- GitHub: [@ajithkumarts111-pixel](https://github.com/ajithkumarts111-pixel)
+- LinkedIn: [Your LinkedIn URL]
+- Email: ajithkumarts111@gmail.com
