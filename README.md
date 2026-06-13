@@ -20,7 +20,7 @@ healthcare business can use this as their online presence.
 If you're a clinic owner or know someone who needs a 
 professional website — let's connect.
 
-🔗 GitHub: [link]
+🔗 GitHub: https://github.com/ajithkumarts111-pixel/
 🌐 Live Demo: [link]
 
 #NextJS #React #WebDevelopment #Freelancing #HealthcareWebsite
